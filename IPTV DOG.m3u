@@ -539,7 +539,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a4b4
 #EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="ENTRETERIMENTO",Assim é Portugal | Brasil
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
 
-#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim-01.png" group-title="FILMES & SERIES",EXPRESSO DO AMANHÃ
+#EXTINF:-1 tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/05e5fac35fd0fe618ce0b2a2ea00cc4474973fcbcbdb0a603a56d056bae899b7.jpg" group-title="FILMES & SERIES",EXPRESSO DO AMANHÃ
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_dyr2nyfw/format/applehttp/protocol/https/flavorIds/1_unjqacn7,1_vmcohnmy,1_is3rxg8w,1_285kfniv,1_1t5bvbum,1_ojek1zpn/preferredBitrate/1500/maxBitrate/10000/defaultAudioLang/en/a.m3u8?timestamp=1760357029&id=1328&ip=138.121.21.201&override_expiration=1500&sign=XfllBSDD1WpIFAII9KeGvfwkSyI7RdH%2BuOmpUKxuiMo%3D&playSessionId=99959abd-70b3-ef0f-c78d-bff610b6df94:441f41c7-28d0-b152-3701-03de1244f82e&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9wdC1ici9mZWF0dXJlL3Nub3dwaWVyY2Vy&clientTag=html5:v7.198
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V4pVaA9.png" group-title="ENTRETERIMENTO",Astral TV | Brasil 
